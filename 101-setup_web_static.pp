@@ -1,4 +1,4 @@
-# Script that configures Nginx server with some folders and files
+# Puppet for setup
 
 $nginx_conf = "server {
     listen 80 default_server;

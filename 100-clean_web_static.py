@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-""" Function that deploys """
-
 import os
 from fabric.api import *
 

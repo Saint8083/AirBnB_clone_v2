@@ -1,8 +1,4 @@
 #!/usr/bin/python3
-"""
-Fabric script that generates a tgz archive from the contents of the web_static
-folder of the AirBnB Clone repo
-"""
 from fabric.api import local
 from time import strftime
 from datetime import date
